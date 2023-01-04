@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppDyanmicTables</string>
+    <string name="name_title">Dinamic Tables</string>
+
+    <string name="name_row">row</string>
+    <string name="name_col">column</string>
+    <string name="name_make">make</string>
+</resources>
